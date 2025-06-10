@@ -5,6 +5,7 @@ List of robotics companies/organizations in Africa.
 | Company/Organization | Description | Website | Country | Sector | Status |
 | --- | --- | --- | --- | --- | --- |
 | 3Farmate Robotics | Helps farmers leverage cutting edge robotics and artificial intelligence to swiftly carry out farm operations at reduced costs | https://www.3farmate.com/ | Ghana | Agriculture | active |
+|Artificial Intelligence and Robotics Lab, Unilag (AIRLAB)|Provides an environment for fostering research and development in AI and Robotics |https://linktr.ee/airlabunilag|Nigeria|Education|active|
 | Afribot Robotics | Intelligent autonomous solutions for education, industry & communities. | https://afribot.africa/ | Kenya | Education | active |
 | Cars4Mars | The biggest competition to build rovers for Mars and inspire African Youth to be part of robotics. | https://cars4mars.co.za/ | South Africa | Education | active |
 | CAYTU | AI-driven robotics and intelligent systems, delivering unmatched efficiency, automation, and seamless connectivity to drive the future of smart technology | https://caytu.ai/ | Senegal | Mobility | active |
