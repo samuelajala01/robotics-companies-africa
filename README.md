@@ -8,7 +8,7 @@ List of robotics companies/organizations in Africa.
 | Afribot Robotics | Intelligent autonomous solutions for education, industry & communities. | https://afribot.africa/ | Kenya | Education | in operation |
 | Cars4Mars | The biggest competition to build rovers for Mars and inspire African Youth to be part of robotics. | https://cars4mars.co.za/ | South Africa | Education | in operation |
 | CAYTU | AI-driven robotics and intelligent systems, delivering unmatched efficiency, automation, and seamless connectivity to drive the future of smart technology | https://caytu.ai/ | Senegal | Mobility | in operation |
-| Innovia Labs | deep tech research and development, prototyping and venture studio | https://www.innovialabsafrica.com/ | Nigeria | Deep Tech | in operation |
+| Innovia Labs | Deep tech research and development, prototyping and venture studio | https://www.innovialabsafrica.com/ | Nigeria | Education/Prototyping | in operation |
 | National Centre for Artificial Intelligence and Robotics | AI & Robotics Hub | https://ncair.nitda.gov.ng/ | Nigeria | Government/Policy | in operation |
 | National Centre for Artificial Intelligence and Robotics | AI and robotics hub | https://ncair.nitda.gov.ng/ | Nigeria | Government/Policy | in operation |
 | Pan-African Robotics Competition | Premier robotics competition for youth teams across Africa and its diaspora | https://parcrobotics.org/ | Senegal | Non-profit | in operation |
